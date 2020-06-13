@@ -108,7 +108,7 @@ def cityreader_stretch(lat1, lon1, lat2, lon2, cities=[]):
               within.append(city)
               print(city)
   
-  print(f'within array: {within}')
+  # print(f'within array: {within}')
   return within
   
 
